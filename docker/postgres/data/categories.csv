@@ -1,0 +1,221 @@
+category_id,category,category_summary,url
+706543,Category:Machine_learning,"Machine learning is a branch of statistics and computer science, which studies algorithms and architectures that learn from observed facts.",https://en.wikipedia.org/wiki/Category:Machine_learning
+33547387,Category:Applied machine learning,,https://en.wikipedia.org/wiki/Category:Applied_machine_learning
+42936114,Category:Artificial neural networks,This category are for articles about artificial neural networks (ANN).,https://en.wikipedia.org/wiki/Category:Artificial_neural_networks
+49119651,Category:Deep learning,,https://en.wikipedia.org/wiki/Category:Deep_learning
+3735046,Category:Neural network software,This category lists Artificial neural network software,https://en.wikipedia.org/wiki/Category:Neural_network_software
+1718975,Category:Bayesian networks,,https://en.wikipedia.org/wiki/Category:Bayesian_networks
+1991254,Category:Classification algorithms,"This category is about statistical classification algorithms. For more information, see Statistical classification.",https://en.wikipedia.org/wiki/Category:Classification_algorithms
+17594154,Category:Decision trees,,https://en.wikipedia.org/wiki/Category:Decision_trees
+3985352,Category:Ensemble learning,"Ensemble learning is a type of machine learning that studies algorithms and architectures that build collections, or ensembles, of statistical classifiers that are more accurate than a single classifier.",https://en.wikipedia.org/wiki/Category:Ensemble_learning
+22532673,Category:Cluster analysis,,https://en.wikipedia.org/wiki/Category:Cluster_analysis
+15325165,Category:Cluster analysis algorithms,This category contains algorithms used for cluster analysis.,https://en.wikipedia.org/wiki/Category:Cluster_analysis_algorithms
+30033882,Category:Clustering criteria,,https://en.wikipedia.org/wiki/Category:Clustering_criteria
+34310097,Category:Computational learning theory,,https://en.wikipedia.org/wiki/Category:Computational_learning_theory
+12932492,Category:Artificial intelligence conferences,"Academic conferences related to artificial intelligence, machine learning and pattern recognition.",https://en.wikipedia.org/wiki/Category:Artificial_intelligence_conferences
+33542714,Category:Data mining and machine learning software,Some products in Category:Data analysis software and Category:Statistical software also include data mining and machine learning facilities.,https://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software
+38708030,Category:Social network analysis software,,https://en.wikipedia.org/wiki/Category:Social_network_analysis_software
+42320378,Category:Datasets in machine learning,,https://en.wikipedia.org/wiki/Category:Datasets_in_machine_learning
+16215923,Category:Datasets in computer vision,This category contains various types of image datasets which are used in computer vision and image processing.,https://en.wikipedia.org/wiki/Category:Datasets_in_computer_vision
+29549713,Category:Dimension reduction,,https://en.wikipedia.org/wiki/Category:Dimension_reduction
+36425555,Category:Factor analysis,,https://en.wikipedia.org/wiki/Category:Factor_analysis
+754055,Category:Evolutionary algorithms,"An evolutionary algorithm (EA) is a heuristic optimization algorithm using techniques inspired by mechanisms from organic evolution such as mutation, recombination, and natural selection to find an optimal configuration for a specific system within specific constraints.",https://en.wikipedia.org/wiki/Category:Evolutionary_algorithms
+37176176,Category:Gene expression programming,,https://en.wikipedia.org/wiki/Category:Gene_expression_programming
+868737,Category:Genetic algorithms,"A genetic algorithm (GA) is an algorithm used to find approximate solutions to difficult-to-solve problems through application of the principles of evolutionary biology to computer science. Genetic algorithms use biologically-derived techniques such as inheritance, mutation, natural selection, and recombination. Genetic algorithms are a particular class of evolutionary algorithms.",https://en.wikipedia.org/wiki/Category:Genetic_algorithms
+15358447,Category:Artificial immune systems,,https://en.wikipedia.org/wiki/Category:Artificial_immune_systems
+3061615,Category:Genetic programming,Genetic programming (GP) is an automated methodology inspired by biological evolution to find computer programs that best perform a user-defined task. It is therefore a particular machine learning technique that uses an evolutionary algorithm to optimize a population of computer programs according to a fitness landscape determined by a program's ability to perform a given computational task.,https://en.wikipedia.org/wiki/Category:Genetic_programming
+51088850,Category:Nature-inspired metaheuristics,,https://en.wikipedia.org/wiki/Category:Nature-inspired_metaheuristics
+29003796,Category:Inductive logic programming,,https://en.wikipedia.org/wiki/Category:Inductive_logic_programming
+12535256,Category:Kernel methods for machine learning,This page lists categories and articles related to kernel methods for machine learning.,https://en.wikipedia.org/wiki/Category:Kernel_methods_for_machine_learning
+31176997,Category:Support vector machines,,https://en.wikipedia.org/wiki/Category:Support_vector_machines
+20924581,Category:Latent variable models,,https://en.wikipedia.org/wiki/Category:Latent_variable_models
+29967998,Category:Structural equation models,,https://en.wikipedia.org/wiki/Category:Structural_equation_models
+19314112,Category:Learning in computer vision,"Learning-based methods in computer vision make use of training data to build systems for visual analysis. For example, one may train a system for detecting faces using training images of faces. Training data is often given in the forms of image or video collections, together with target labels. Such data is often fed into a machine learning algorithm, that will learn to predict such labels given novel images or video. Learning-based methods have been used for a variety of computer vision tasks, including low-level problems such as image-denoising, and high-level tasks such as object recognition and scene classification.",https://en.wikipedia.org/wiki/Category:Learning_in_computer_vision
+36407925,Category:Log-linear models,Not to be confused with Logistic regression models.,https://en.wikipedia.org/wiki/Category:Log-linear_models
+28004586,Category:Loss functions,,https://en.wikipedia.org/wiki/Category:Loss_functions
+33547228,Category:Machine learning algorithms,,https://en.wikipedia.org/wiki/Category:Machine_learning_algorithms
+44943481,Category:Machine learning portal,"Note
+This portal navigation can be placed on articles, and is commonly placed in the See also section of an article on Wikipedia, using the following code:",https://en.wikipedia.org/wiki/Category:Machine_learning_portal
+47991509,Category:Machine learning task,Category for machine learning tasks,https://en.wikipedia.org/wiki/Category:Machine_learning_task
+24059390,Category:Markov models,,https://en.wikipedia.org/wiki/Category:Markov_models
+31813917,Category:Hidden Markov models,,https://en.wikipedia.org/wiki/Category:Hidden_Markov_models
+22718453,Category:Markov networks,,https://en.wikipedia.org/wiki/Category:Markov_networks
+3832584,Category:Machine learning researchers,Researchers who study machine learning.,https://en.wikipedia.org/wiki/Category:Machine_learning_researchers
+52763829,Category:Semisupervised learning,,https://en.wikipedia.org/wiki/Category:Semisupervised_learning
+11737376,Category:Statistical natural language processing,,https://en.wikipedia.org/wiki/Category:Statistical_natural_language_processing
+42452485,Category:Language modeling,,https://en.wikipedia.org/wiki/Category:Language_modeling
+40149461,Category:Structured prediction,,https://en.wikipedia.org/wiki/Category:Structured_prediction
+22691076,Category:Graphical models,,https://en.wikipedia.org/wiki/Category:Graphical_models
+30174957,Category:Causal inference,Articles relating to causal inference.,https://en.wikipedia.org/wiki/Category:Causal_inference
+52763867,Category:Supervised learning,,https://en.wikipedia.org/wiki/Category:Supervised_learning
+52763828,Category:Unsupervised learning,,https://en.wikipedia.org/wiki/Category:Unsupervised_learning
+1744470,Category:Business software,"Pertains to the software normally used by businesses, including word processors, spreadsheets, project management software, etc.",https://en.wikipedia.org/wiki/Category:Business_software
+20727104,Category:Administrative software,,https://en.wikipedia.org/wiki/Category:Administrative_software
+17799618,Category:Business simulation games,"Business simulation games are games that simulate a real-world, historical, or hypothetical economy or business.
+For a list of board games of this variety, see Category:Economic simulation board games.",https://en.wikipedia.org/wiki/Category:Business_simulation_games
+27721340,Category:Amusement park simulation games,Amusement park simulation games.,https://en.wikipedia.org/wiki/Category:Amusement_park_simulation_games
+44922677,Category:M.U.L.E.,,https://en.wikipedia.org/wiki/Category:M.U.L.E.
+13216268,Category:Roller coaster games and simulations,,https://en.wikipedia.org/wiki/Category:Roller_coaster_games_and_simulations
+10085953,Category:Sports management video games,,https://en.wikipedia.org/wiki/Category:Sports_management_video_games
+18101218,Category:Trade simulation games,"Games of this type emphasize the life of a trader or merchant involving the transportation of goods or commodities for profit, often as a free-lance agent, smuggler or privateer.
+
+",https://en.wikipedia.org/wiki/Category:Trade_simulation_games
+39703106,Category:Transport Tycoon,All articles associated with Transport Tycoon,https://en.wikipedia.org/wiki/Category:Transport_Tycoon
+11585310,Category:Zoo Tycoon,,https://en.wikipedia.org/wiki/Category:Zoo_Tycoon
+14541812,Category:Business software companies,,https://en.wikipedia.org/wiki/Category:Business_software_companies
+37041135,Category:Business software for Linux,,https://en.wikipedia.org/wiki/Category:Business_software_for_Linux
+41517954,Category:Business software for MacOS,,https://en.wikipedia.org/wiki/Category:Business_software_for_MacOS
+41517953,Category:Business software for Windows,,https://en.wikipedia.org/wiki/Category:Business_software_for_Windows
+15459030,Category:Collaborative software,,https://en.wikipedia.org/wiki/Category:Collaborative_software
+24925014,Category:Dental practice management software,,https://en.wikipedia.org/wiki/Category:Dental_practice_management_software
+45686490,Category:Enterprise software,"Enterprise software, also known as enterprise application software (EAS), is purpose-designed computer software used to satisfy the needs of an organization rather than individual users.",https://en.wikipedia.org/wiki/Category:Enterprise_software
+2504415,Category:ERP software,,https://en.wikipedia.org/wiki/Category:ERP_software
+6702479,Category:Free ERP software,"This is a category of articles relating to Enterprise resource planning software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.
+N360i ERP Platform",https://en.wikipedia.org/wiki/Category:Free_ERP_software
+3502238,Category:Enterprise application integration,,https://en.wikipedia.org/wiki/Category:Enterprise_application_integration
+42389288,Category:Enterprise resource planning software for Linux,Enterprise resource planning (ERP) software that runs on Linux.,https://en.wikipedia.org/wiki/Category:Enterprise_resource_planning_software_for_Linux
+12840698,Category:ERP software companies,This category is for companies developing ERP applications.,https://en.wikipedia.org/wiki/Category:ERP_software_companies
+2700037,Category:Microsoft Dynamics,,https://en.wikipedia.org/wiki/Category:Microsoft_Dynamics
+12840821,Category:Supply chain software companies,,https://en.wikipedia.org/wiki/Category:Supply_chain_software_companies
+30935868,Category:Enterprise resource planning terminology,,https://en.wikipedia.org/wiki/Category:Enterprise_resource_planning_terminology
+8733307,Category:Financial software,,https://en.wikipedia.org/wiki/Category:Financial_software
+2504403,Category:Accounting software,,https://en.wikipedia.org/wiki/Category:Accounting_software
+34169082,Category:Computer-aided audit tools,"Computer Assisted Auditing Techniques, CAATs",https://en.wikipedia.org/wiki/Category:Computer-aided_audit_tools
+27636931,Category:Cost analysis software,,https://en.wikipedia.org/wiki/Category:Cost_analysis_software
+28094408,Category:Financial markets software,,https://en.wikipedia.org/wiki/Category:Financial_markets_software
+7822995,Category:Financial software companies,Financial software companies,https://en.wikipedia.org/wiki/Category:Financial_software_companies
+15629646,Category:Free finance software,"This is a category of articles relating to finance software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_finance_software
+50046144,Category:Microfinance software,Microfinance software is software that was designed for use in microfinance institutions (MFIs).,https://en.wikipedia.org/wiki/Category:Microfinance_software
+6702491,Category:Free business software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_business_software
+8384200,Category:Free accounting software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_accounting_software
+15097902,Category:Free customer relationship management software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_customer_relationship_management_software
+38195913,Category:Free e-commerce software,"This is a category of articles relating to electronic commerce software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_e-commerce_software
+34474836,Category:Free content management systems,,https://en.wikipedia.org/wiki/Category:Free_content_management_systems
+54385025,Category:Free static website generators,,https://en.wikipedia.org/wiki/Category:Free_static_website_generators
+6702281,Category:Free project management software,"This is a category of articles relating to project management software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: free software (or “open-source software”). Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_project_management_software
+14807490,Category:Free reporting software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_reporting_software
+3964070,Category:Health software,This category is for software that is not related to healthcare.,https://en.wikipedia.org/wiki/Category:Health_software
+45087045,Category:Behavioral experimentation software,,https://en.wikipedia.org/wiki/Category:Behavioral_experimentation_software
+20739972,Category:Disability software,,https://en.wikipedia.org/wiki/Category:Disability_software
+27973215,Category:Health video games,Video games designed to promote good health.,https://en.wikipedia.org/wiki/Category:Health_video_games
+21283046,Category:Healthcare software,,https://en.wikipedia.org/wiki/Category:Healthcare_software
+13226129,Category:Dental software,,https://en.wikipedia.org/wiki/Category:Dental_software
+41130974,Category:DICOM software,,https://en.wikipedia.org/wiki/Category:DICOM_software
+35632160,Category:Electronic health record software,"This category is for EHR, EMR, and PHR. It can also include systems which include an EMR and additional practice management functions.",https://en.wikipedia.org/wiki/Category:Electronic_health_record_software
+45267960,Category:Electronic health records,,https://en.wikipedia.org/wiki/Category:Electronic_health_records
+34594700,Category:Free healthcare software,"This is a category of articles relating to Medical software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open-source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.
+Free health software forms a tree, with a structure identical (when the same pages exist in both) to that of Category:Health software. See that category's page for an outline of the tree. Pages in the Free tree are linked to corresponding pages in the other tree.",https://en.wikipedia.org/wiki/Category:Free_healthcare_software
+48566259,Category:Healthcare software for Linux,,https://en.wikipedia.org/wiki/Category:Healthcare_software_for_Linux
+48566277,Category:Healthcare software for MacOS,,https://en.wikipedia.org/wiki/Category:Healthcare_software_for_MacOS
+48566248,Category:Healthcare software for Windows,,https://en.wikipedia.org/wiki/Category:Healthcare_software_for_Windows
+21420335,Category:Medical software,,https://en.wikipedia.org/wiki/Category:Medical_software
+41130938,Category:Free medical software,,https://en.wikipedia.org/wiki/Category:Free_medical_software
+44217847,Category:Medical expert systems,,https://en.wikipedia.org/wiki/Category:Medical_expert_systems
+28066369,Category:Medical simulation,,https://en.wikipedia.org/wiki/Category:Medical_simulation
+1625286,Category:MUMPS programming language family,"Languages in the MUMPS programming language family derive from MUMPS, or have the imperative command style of MUMPS. Some of these languages were developed at the time of the great explosion of MUMPS implementations in the 1970s and were never standardized.",https://en.wikipedia.org/wiki/Category:MUMPS_programming_language_family
+35632148,Category:Public health and biosurveillance software,,https://en.wikipedia.org/wiki/Category:Public_health_and_biosurveillance_software
+43523123,Category:Repetitive strain injury software,"This category covers software used to monitor, prevent, or manage repetitive strain injury (RSI).",https://en.wikipedia.org/wiki/Category:Repetitive_strain_injury_software
+23785395,Category:Human resource management software,This category is for individual applications and general terms related to HRM.,https://en.wikipedia.org/wiki/Category:Human_resource_management_software
+3813661,Category:Java enterprise platform,"This category includes Java platform technologies that target an enterprise environment. This includes, but is not limited to, technologies that work with Java EE.",https://en.wikipedia.org/wiki/Category:Java_enterprise_platform
+30303453,Category:Manufacturing software,Manufacturing software includes real time systems which give information to facilitate faster decision making,https://en.wikipedia.org/wiki/Category:Manufacturing_software
+27490351,Category:Marketing software,,https://en.wikipedia.org/wiki/Category:Marketing_software
+38739665,Category:MES software,,https://en.wikipedia.org/wiki/Category:MES_software
+34292819,Category:Mobile business software,,https://en.wikipedia.org/wiki/Category:Mobile_business_software
+21137368,Category:Office software,,https://en.wikipedia.org/wiki/Category:Office_software
+691651,Category:Content management systems,"A content management system (CMS) is a system used to organize and facilitate collaborative content creation. Recently, the term has been used specifically to refer to programs on WWW servers, but it can also refer to hardware devices that manage documents on a large network.",https://en.wikipedia.org/wiki/Category:Content_management_systems
+45045208,Category:Abstract management software,,https://en.wikipedia.org/wiki/Category:Abstract_management_software
+3700928,Category:Blog software,,https://en.wikipedia.org/wiki/Category:Blog_software
+28784476,Category:Document management systems,,https://en.wikipedia.org/wiki/Category:Document_management_systems
+44955862,Category:Publication management software,,https://en.wikipedia.org/wiki/Category:Publication_management_software
+50290348,Category:Records management,,https://en.wikipedia.org/wiki/Category:Records_management
+54385019,Category:Static website generators,,https://en.wikipedia.org/wiki/Category:Static_website_generators
+37780785,Category:TYPO3,TYPO3 is a free and open source web content management framework based on PHP.,https://en.wikipedia.org/wiki/Category:TYPO3
+1055066,Category:Version control systems,,https://en.wikipedia.org/wiki/Category:Version_control_systems
+45283638,Category:Discontinued version control systems,,https://en.wikipedia.org/wiki/Category:Discontinued_version_control_systems
+17322751,Category:Concurrent Versions System,,https://en.wikipedia.org/wiki/Category:Concurrent_Versions_System
+19256266,Category:Distributed version control systems,,https://en.wikipedia.org/wiki/Category:Distributed_version_control_systems
+5354695,Category:Free version control software,,https://en.wikipedia.org/wiki/Category:Free_version_control_software
+42805944,Category:Git (software),This category may contain any tool or service that is used in association with git.,https://en.wikipedia.org/wiki/Category:Git_(software)
+31489607,Category:Project hosting websites,,https://en.wikipedia.org/wiki/Category:Project_hosting_websites
+3046409,Category:Proprietary version control systems,,https://en.wikipedia.org/wiki/Category:Proprietary_version_control_systems
+30116242,Category:Version control GUI tools,,https://en.wikipedia.org/wiki/Category:Version_control_GUI_tools
+11361657,Category:Wikis,,https://en.wikipedia.org/wiki/Category:Wikis
+48921430,Category:Wikis by genre,,https://en.wikipedia.org/wiki/Category:Wikis_by_genre
+849051,Category:Wiki communities,,https://en.wikipedia.org/wiki/Category:Wiki_communities
+852585,Category:Wiki concepts,These are community or technical concepts associated with wikis.,https://en.wikipedia.org/wiki/Category:Wiki_concepts
+43307706,Category:MediaWiki sites,,https://en.wikipedia.org/wiki/Category:MediaWiki_sites
+32241567,Category:Museums with wikis,Museums with a wiki.,https://en.wikipedia.org/wiki/Category:Museums_with_wikis
+850706,Category:Wiki software,,https://en.wikipedia.org/wiki/Category:Wiki_software
+53265317,Category:Wiki-related conferences,,https://en.wikipedia.org/wiki/Category:Wiki-related_conferences
+29846636,Category:WikiLeaks,,https://en.wikipedia.org/wiki/Category:WikiLeaks
+20737573,Category:Video hosting software,,https://en.wikipedia.org/wiki/Category:Video_hosting_software
+19863916,Category:Widget management systems,,https://en.wikipedia.org/wiki/Category:Widget_management_systems
+693339,Category:Zope,,https://en.wikipedia.org/wiki/Category:Zope
+30992453,Category:Content management system stubs,,https://en.wikipedia.org/wiki/Category:Content_management_system_stubs
+28655967,Category:Email clients,,https://en.wikipedia.org/wiki/Category:Email_clients
+28655623,Category:Classic Mac OS email clients,,https://en.wikipedia.org/wiki/Category:Classic_Mac_OS_email_clients
+28655417,Category:Email devices,This category is for hardware devices that primarily act as an email client.,https://en.wikipedia.org/wiki/Category:Email_devices
+28655490,Category:Free email software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.
+Entries in this category are mostly but not exclusively email clients.
+See Category:Free email server software for email servers.",https://en.wikipedia.org/wiki/Category:Free_email_software
+4588690,Category:Gmail,Categorization for articles about Gmail.,https://en.wikipedia.org/wiki/Category:Gmail
+42497172,Category:Email client software for Linux,Email client software supporting the Internet Message Access Protocol and/or Post Office Protocol that runs on Linux kernel-based operating systems.,https://en.wikipedia.org/wiki/Category:Email_client_software_for_Linux
+39087547,Category:MacOS email clients,,https://en.wikipedia.org/wiki/Category:MacOS_email_clients
+45153535,Category:Offline mail readers,"Offline mail readers are a class of computer programs that download email messages and the allow them to be edited while ""offline"". In the past when email systems were accessed using terminal programs over modems, offline readers were a major class of systems that helped lower online time. Many modern email systems offer this feature as a side-effect of the way they work, but offline readers generally also supported internet forums as well as private email.",https://en.wikipedia.org/wiki/Category:Offline_mail_readers
+34414026,Category:Webmail,,https://en.wikipedia.org/wiki/Category:Webmail
+28655634,Category:Windows email clients,,https://en.wikipedia.org/wiki/Category:Windows_email_clients
+41873467,Category:Office document file formats,,https://en.wikipedia.org/wiki/Category:Office_document_file_formats
+18628264,Category:DocBook,,https://en.wikipedia.org/wiki/Category:DocBook
+815171,Category:HTML,Articles about the HTML markup language.,https://en.wikipedia.org/wiki/Category:HTML
+20399432,Category:Office Open XML,"The Office Open XML format (OOXML), is an open and free document file format for saving and exchanging editable office documents such as text documents (including memos, reports, and books), spreadsheets, charts, and presentations.",https://en.wikipedia.org/wiki/Category:Office_Open_XML
+3452207,Category:OpenDocument,"The OpenDocument format (ODF), short for the OASIS Open Document Format for Office Applications, is an open document file format for saving and exchanging editable office documents such as text documents (including memos, reports, and books), spreadsheets, charts, and presentations. This standard was developed by the OASIS industry consortium, based upon the XML-based file format originally created by OpenOffice.org, and is an international standard (ISO/IEC 26300).",https://en.wikipedia.org/wiki/Category:OpenDocument
+6629611,Category:Spreadsheet file formats,,https://en.wikipedia.org/wiki/Category:Spreadsheet_file_formats
+695136,Category:TeX,"TeX is a typesetting system written by Donald Knuth, which is popular in academia, especially in the mathematics, physics and computer science communities. It has largely displaced Unix troff, the other favored formatter, in many Unix installations.",https://en.wikipedia.org/wiki/Category:TeX
+6607623,Category:BibTeX,,https://en.wikipedia.org/wiki/Category:BibTeX
+7123563,Category:TeX editors,,https://en.wikipedia.org/wiki/Category:TeX_editors
+4209207,Category:Free TeX software,"This is a category of articles relating to software which can be freely used, copied, studied, modified, and redistributed by everyone that obtains a copy: ""free software"" or ""open source software"". Typically, this means software which is distributed with a free software license, and whose source code is available to anyone who receives a copy of the software.",https://en.wikipedia.org/wiki/Category:Free_TeX_software
+13047793,Category:Linux TeX software,TeX software which will run on Linux.,https://en.wikipedia.org/wiki/Category:Linux_TeX_software
+41517915,Category:TeX software for macOS,,https://en.wikipedia.org/wiki/Category:TeX_software_for_macOS
+41517914,Category:TeX software for Windows,,https://en.wikipedia.org/wiki/Category:TeX_software_for_Windows
+1779405,Category:Office suites,,https://en.wikipedia.org/wiki/Category:Office_suites
+8478907,Category:Lotus SmartSuite,,https://en.wikipedia.org/wiki/Category:Lotus_SmartSuite
+40641351,Category:Microsoft Office-related software,,https://en.wikipedia.org/wiki/Category:Microsoft_Office-related_software
+2043396,Category:Microsoft Office,,https://en.wikipedia.org/wiki/Category:Microsoft_Office
+41783273,Category:Office suites for Linux,,https://en.wikipedia.org/wiki/Category:Office_suites_for_Linux
+41457472,Category:Office suites for macOS,,https://en.wikipedia.org/wiki/Category:Office_suites_for_macOS
+41457478,Category:Office suites for Windows,,https://en.wikipedia.org/wiki/Category:Office_suites_for_Windows
+19284924,Category:Online office suites,,https://en.wikipedia.org/wiki/Category:Online_office_suites
+38962174,Category:Open-source office suites,Office software that is released under an open source license.,https://en.wikipedia.org/wiki/Category:Open-source_office_suites
+1082194,Category:Presentation software,"Presentation programs are computer software packages used to give presentations, usually in the form of a slide show.",https://en.wikipedia.org/wiki/Category:Presentation_software
+14595434,Category:Spreadsheet software,,https://en.wikipedia.org/wiki/Category:Spreadsheet_software
+17650119,Category:Typing software,,https://en.wikipedia.org/wiki/Category:Typing_software
+695124,Category:Word processors,,https://en.wikipedia.org/wiki/Category:Word_processors
+30660346,Category:Apple II word processors,Word processor software for the Apple II series.,https://en.wikipedia.org/wiki/Category:Apple_II_word_processors
+1364849,Category:Classic Mac OS word processors,,https://en.wikipedia.org/wiki/Category:Classic_Mac_OS_word_processors
+52755810,Category:DOS word processors,,https://en.wikipedia.org/wiki/Category:DOS_word_processors
+4195124,Category:Free word processors,This category is about word processors that are free software.,https://en.wikipedia.org/wiki/Category:Free_word_processors
+1364850,Category:Linux word processors,,https://en.wikipedia.org/wiki/Category:Linux_word_processors
+39087353,Category:MacOS word processors,,https://en.wikipedia.org/wiki/Category:MacOS_word_processors
+19148654,Category:Online word processors,,https://en.wikipedia.org/wiki/Category:Online_word_processors
+1366543,Category:Windows word processors,,https://en.wikipedia.org/wiki/Category:Windows_word_processors
+36255229,Category:Word processor comparisons,,https://en.wikipedia.org/wiki/Category:Word_processor_comparisons
+32008475,Category:Word processor stubs,,https://en.wikipedia.org/wiki/Category:Word_processor_stubs
+30220188,Category:Portal software,"Gartner defines a portal as ""a Web software infrastructure that provides interaction with relevant information assets (for example, information/content, applications and business processes), knowledge assets and human assets by select targeted audiences, delivered in a highly personalized manner."" Enterprise portals may face different audiences, including:
+Employees — business-to-employee (B2E)
+Customers — B2C
+Business partners — B2B
+Vertical portals focus on accessing specific applications or business functions. Horizontal portals seek to integrate and aggregate information from multiple cross-enterprise applications, as well as specific line-of-business tools and applications.",https://en.wikipedia.org/wiki/Category:Portal_software
+1706137,Category:Project management software,,https://en.wikipedia.org/wiki/Category:Project_management_software
+43079230,Category:GitHub,,https://en.wikipedia.org/wiki/Category:GitHub
+1520031,Category:Mind-mapping software,,https://en.wikipedia.org/wiki/Category:Mind-mapping_software
+28420362,Category:Task management software,,https://en.wikipedia.org/wiki/Category:Task_management_software
+44406061,Category:Time-tracking software,,https://en.wikipedia.org/wiki/Category:Time-tracking_software
+29576811,Category:Publishing software,,https://en.wikipedia.org/wiki/Category:Publishing_software
+2543335,Category:Reporting software,,https://en.wikipedia.org/wiki/Category:Reporting_software
+9761144,Category:Risk management software,The following is a list of Risk Management software.,https://en.wikipedia.org/wiki/Category:Risk_management_software
+38798197,Category:Service-oriented architecture-related products,Commercial software products (including tools and platforms) that support service-oriented architecture (SOA).,https://en.wikipedia.org/wiki/Category:Service-oriented_architecture-related_products
+26651713,Category:Tax software,,https://en.wikipedia.org/wiki/Category:Tax_software
+53417207,Category:Telecommunications Billing Systems,,https://en.wikipedia.org/wiki/Category:Telecommunications_Billing_Systems
+9186941,Category:Workflow technology,Category for all related entries about computerized workflow. All standards in this domain should be tagged by this category.,https://en.wikipedia.org/wiki/Category:Workflow_technology
+23739219,Category:Industry-specific XML-based standards,Standards expressed in XML that relate to a particular business or industry.,https://en.wikipedia.org/wiki/Category:Industry-specific_XML-based_standards
+9622164,Category:Business software stubs,,https://en.wikipedia.org/wiki/Category:Business_software_stubs
