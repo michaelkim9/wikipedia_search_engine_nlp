@@ -1,8 +1,11 @@
-# Semantic Search
+# Building Wikipedia Search Engine with Semantic Analysis
 
-## The Task
+This project has three parts -- data collection, data exploration / algorithm development, then finally predictive modeling.
 
-The task has three parts -- data collection, data exploration / algorithm development, then finally predictive modeling. 
+It accomplishes two main tasks: recommend Wikipedia articles, and predict categories of new articles. A user can input a search term and my search engine algorithm will recommend 5 related Wikipedia articles for the user. When a new article is submitted to Wikipedia, my model can predict with over 90% accuracy the correct category it falls under.
+
+**tools used**
+Natural Language Processing (NLP), Machine Learning Algorithms, Python, Pandas, PostGres, Scikit-Learn, Wikipedia API, Docker, AWS
 
 ![](http://interactive.blockdiag.com/image?compression=deflate&encoding=base64&src=eJxdjrsOwjAMRXe-wlsmRhaQkDoiMSDxBW5slahtHDmGCiH-nfQxtKy-59zruhPfUsAGPjsA56XvMdIRSIbYCZKD_RncENqQuGBQ3S7TidCwxsynjZUZ1T8m4HqvJlXZnhrBJMHBbWlTDHEeSFravYUXQy_E3TKrwbioMKb5z16UmRxfXZurVY_GjegbhqJIjaXm-wNmzE4W)
 
@@ -13,58 +16,21 @@ We want you to query the wikipedia API and **collect all of the articles** under
 * [Machine Learning](https://en.wikipedia.org/wiki/Category:Machine_learning)
 * [Business Software](https://en.wikipedia.org/wiki/Category:Business_software)
 
-We want your code to be modular enough that any valid category from Wikipedia can be queried by your code.
+The code is modular enough that any valid category from Wikipedia can be queried by your code. Accessed the Wikpedia API to collect 8000+ articles.
 
-The results of the query should be written to PostgreSQL tables, `page` and `category`. You will also need to build some sort of reference between the pages and categories. Keep in mind that a page can have many categories and a category can have many pages so a straight foreign key arrangement will not work. 
-
-**optional**  
-Make it so that your code can be run via a python script e.g.
-
-```bash
-$ docker run -v `pwd`:/src python -m download #SOME_CATEGORY#
-```
-
-**optional**  
-Make it so that your code can query nested sub-categories e.g.
-
-```bash
-$ docker run -v `pwd`:/src python -m download #SOME_CATEGORY# #NESTING_LEVEL#
-```
+The results of the query were written to PostgreSQL tables, `page` and `category`. And a `pages_categories` table was developed to build a reference between the pages and categories. This is the case because a page can have many categories and a category can have many pages. 
 
 ### Part 2 -- Search
 
-Use Latent Semantic Analysis to search your pages. Given a search query, find the top 5 related articles to the search query.
+Used Latent Semantic Analysis to search all the pages. Given a search query, the algorithm developed will find the top 5 related articles to the search query based on cosine similarities. 
 
-**optional**  
-Make it so that your code can be run via a python script e.g.
-
-```bash
-$ docker run -v `pwd`:/src python -m search #SOME_TERM#
-```
 
 ### Part 3 -- Predictive Model
 
-In this part, we want you to build a predictive model from the data you've just indexed. Specifically, when a new article from wikipedia comes along, we would like to be able to predict what category the article should fall into. We expect a training script of some sort that is runnable and will estimate a model. 
+In this part, we build a predictive model from the data we've just indexed. Specifically, when a new article from wikipedia comes along, we would like to be able to predict what category the article should fall into. Implemented KNearest Neighbors (KNN), Support Vector Classifier and Multinomial Naive Bayes to obtain a 90% prediction accuracy for classifying articles.
 
-**optional**  
-Make it so that your code can be run via a python script e.g.
-
-```bash
-$ docker run -v `pwd`:/src python -m train
-```
-
-Finally, you should be able to pass the url of a wikipedia page and it will generate a prediction for the best category for that page, along with a probability of that being the correct category. 
-
-**optional**  
-Make it so that your code can be run via a python script e.g.
-
-```bash
-$ docker run -v `pwd`:/src python -m predict #URL#
-```
 
 ## Infrastructure
 
-You may use the include `docker-compose.yml` file to build your project.
-
-
+Utilized docker-compose to build the project.
 
