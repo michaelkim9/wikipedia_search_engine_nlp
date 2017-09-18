@@ -4,7 +4,7 @@ This project has three parts -- data collection, data exploration / algorithm de
 
 It accomplishes two main tasks: recommend Wikipedia articles, and predict categories of new articles. A user can input a search term and my search engine algorithm will recommend 5 related Wikipedia articles for the user. When a new article is submitted to Wikipedia, my model can predict with over 90% accuracy the correct category it falls under.
 
-**tools used**
+**tools used:**
 Natural Language Processing (NLP), Machine Learning Algorithms, Python, Pandas, PostGres, Scikit-Learn, Wikipedia API, Docker, AWS
 
 ![](http://interactive.blockdiag.com/image?compression=deflate&encoding=base64&src=eJxdjrsOwjAMRXe-wlsmRhaQkDoiMSDxBW5slahtHDmGCiH-nfQxtKy-59zruhPfUsAGPjsA56XvMdIRSIbYCZKD_RncENqQuGBQ3S7TidCwxsynjZUZ1T8m4HqvJlXZnhrBJMHBbWlTDHEeSFravYUXQy_E3TKrwbioMKb5z16UmRxfXZurVY_GjegbhqJIjaXm-wNmzE4W)
